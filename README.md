@@ -82,7 +82,7 @@ OnlineBookLibrary/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/WiproProject-OnlineLibrarySystem.git
-   cd OnlineBookLibrary
+   cd OnlineLibrarySystem
 2. Update the database connection string in appsettings.json
 3. Apply Entity Framework migrations
 4. Run the application
