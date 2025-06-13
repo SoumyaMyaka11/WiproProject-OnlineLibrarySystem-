@@ -9,7 +9,6 @@ A simple web application where users can manage a list of books in a library. Th
 - [Views](#views)  
 - [Folder Structure](#folder-structure)  
 - [Prerequisites](#prerequisites)  
-- [Setup Instructions](#setup-instructions)  
 - [Screenshots](#screenshots)  
 
 ##  Features
