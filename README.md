@@ -2,16 +2,15 @@
 A simple web application where users can manage a list of books in a library. The application supports basic **CRUD operations** using a **single controller**, stores data in a **SQL Server database**, and follows the **ASP.NET Core MVC** pattern.
 
 ## Table of Contents
--[Features](#features)  
--[Technologies Used](#technologies-used)  
--[Database Schema](#database-schema)  
--[Controller](#controller)  
--[Views](#views)  
--[Folder Structure](#folder-structure) 
--[Prerequisites](#Prerequisites)
--[Setup Instructions](#setup-instructions)  
--[Screenshots](#screenshots)  
-
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Database Schema](#database-schema)  
+- [Controller](#controller)  
+- [Views](#views)  
+- [Folder Structure](#folder-structure)  
+- [Prerequisites](#prerequisites)  
+- [Setup Instructions](#setup-instructions)  
+- [Screenshots](#screenshots)  
 
 ##  Features
 - Add a new book
