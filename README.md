@@ -7,7 +7,8 @@ A simple web application where users can manage a list of books in a library. Th
 -[Database Schema](#database-schema)  
 -[Controller](#controller)  
 -[Views](#views)  
--[Folder Structure](#folder-structure)   
+-[Folder Structure](#folder-structure) 
+-[Prerequisites](Prerequisites)
 -[Setup Instructions](#setup-instructions)  
 -[Screenshots](#screenshots)  
 
@@ -53,12 +54,6 @@ This controller handles all user actions with a single controller.
   ## Views
 All views are stored in `Views/Books/`:
 Each view corresponds to a method in the controller.
-Views/Books/
-├── Index.cshtml
-├── Create.cshtml
-├── Edit.cshtml
-├── Details.cshtml
-└── Delete.cshtml
 
 ## Folder Structure
 
@@ -77,6 +72,13 @@ OnlineBookLibrary/
 ├── Data/
 │ └── ApplicationDbContext.cs
 ├── appsettings.json
+
+### Prerequisites
+
+- [.NET SDK](https://dotnet.microsoft.com/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [Visual Studio 2022+](https://visualstudio.microsoft.com/) (with ASP.NET workload)
+- Azure Account (for deployment)
 
 ##  How to Run Locally
 1. **Clone the repository**
